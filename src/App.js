@@ -20,7 +20,7 @@ function App() {
       image:
         "https://codefirstgirls.com/wp-content/uploads/2021/05/Featured-image-web-1.png",
       link: "https://",
-      status: "Not Complete",
+      status: "Completed",
     },
   ];
 
